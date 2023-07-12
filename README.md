@@ -23,3 +23,7 @@ You will be building an HTML version of your resume
 - Each article should have a different border(weight,style,color).
 
 NOTE: If you have less than two previous employers, either use your educational instituions as a substitute or make them up.
+
+# DOCUMENTATION 
+## 🌸 DAY ONE - 7/11/2023 
+> Getting intial setup and first commits done. 
