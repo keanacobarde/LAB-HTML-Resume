@@ -26,4 +26,4 @@ NOTE: If you have less than two previous employers, either use your educational 
 
 # DOCUMENTATION 
 ## 🌸 DAY ONE - 7/11/2023 
-> Getting intial setup and first commits done. 
+> Getting intial setup and first commits done.
