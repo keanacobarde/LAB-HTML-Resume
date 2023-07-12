@@ -1,3 +1,30 @@
 body {
-  background-color: teal; 
+  background-color: lavenderblush;
+  box-sizing: border-box;
+}
+
+header h1 {
+  color: blueviolet; 
+}
+
+#usaf {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  border-width: 10px; 
+}
+
+#tcat {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#lifeguard {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+#ths {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article h1 {
+  color: blueviolet; 
 }

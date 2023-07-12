@@ -27,3 +27,11 @@ NOTE: If you have less than two previous employers, either use your educational 
 # DOCUMENTATION 
 ## 🌸 DAY ONE - 7/11/2023 
 > Getting intial setup and first commits done.
+
+> Made intiial commit and setup. Created and tested setup. Tests were successful. Created PR and then merged with main branch. Deleted Setup branch. 
+
+### Semantic HTML  
+Creating HTML structures that appeal to meaning rather than appearance. <div> and <span> aren't very semantic. They don't MEAN anything! They're just a way to divide your page up. However, <nav>, <section>, and other semantic forms of HTML mean something.
+
+## 🌸 DAY TWO - 7/12/2023 
+Created the structure and styling for the page. Got hung up on the border part. 
